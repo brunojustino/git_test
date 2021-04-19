@@ -1,0 +1,1 @@
+This is Bruno and it's not my first git project but I'm following Odin guide.
